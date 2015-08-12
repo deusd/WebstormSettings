@@ -1,8 +1,22 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ChangesView.Diff" />
+  <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta D" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
   <action id="SendEOF" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="meta K" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
