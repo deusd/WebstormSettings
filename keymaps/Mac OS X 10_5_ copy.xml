@@ -8,9 +8,23 @@
     <keyboard-shortcut first-keystroke="shift meta D" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="FindNext">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta O" />
+    <keyboard-shortcut first-keystroke="meta P" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta L" />
     <keyboard-shortcut first-keystroke="control G" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt O" />
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta D" />
   </action>
@@ -18,5 +32,6 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="meta K" />
   </action>
+  <action id="UsageView.Rerun" />
   <action id="openAssertEqualsDiff" />
 </keymap>
