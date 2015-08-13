@@ -1,10 +1,10 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta P" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="meta R" />
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="ParameterInfo" />
   <action id="Replace" />
