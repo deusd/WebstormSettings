@@ -5,32 +5,32 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="shift meta D" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta O" />
-    <keyboard-shortcut first-keystroke="meta P" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="meta L" />
-    <keyboard-shortcut first-keystroke="control G" />
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="meta alt O" />
-    <keyboard-shortcut first-keystroke="meta R" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="meta D" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
   <action id="UnselectPreviousOccurrence">
-    <keyboard-shortcut first-keystroke="meta K" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="UsageView.Rerun" />
   <action id="openAssertEqualsDiff" />
